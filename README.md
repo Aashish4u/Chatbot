@@ -1,17 +1,6 @@
 # Chatbot - Machine Learning Model
 Welcome to our chatbot project repository! This project aims to develop a sophisticated chatbot leveraging the power of machine learning, specifically employing Python, TensorFlow, and various neural network architectures.
 
-# Table of Contents:
-
-  Features
-    Key Technologies
-    Getting Started
-        Prerequisites
-        Installation
-        Usage
-    Contribution
-    License
-    Contact
 
 # Features
 
@@ -31,7 +20,7 @@ Welcome to our chatbot project repository! This project aims to develop a sophis
   Python 3.x
   TensorFlow
   Other dependencies (specified in requirements.txt)
-
+  Json 
 
 
 # Usage
