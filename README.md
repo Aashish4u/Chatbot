@@ -1,12 +1,12 @@
 # Chatbot - Machine Learning Model
-Welcome to our chatbot project repository! This project aims to develop a sophisticated chatbot leveraging the power of machine learning, specifically employing Python, TensorFlow, and various neural network architectures.
+Welcome to my chatbot project repository! This project aims to develop a sophisticated chatbot leveraging the power of machine learning, specifically employing Python, TensorFlow, and various neural network architectures.
 
 
 # Features
 
-  Natural Language Understanding: Our chatbot is trained to understand natural language inputs, enabling fluid conversations.
+  Natural Language Understanding: This chatbot is trained to understand natural language inputs, enabling fluid conversations.
   Customizable Responses: Through neural network models, the chatbot generates responses tailored to specific contexts, allowing for a personalized user experience.
-  Continuous Learning: Utilizing deep learning techniques, our chatbot can adapt and improve over time through continuous training on new data.
+  Continuous Learning: Utilizing deep learning techniques, my chatbot can adapt and improve over time through continuous training on new data.
   Scalability: Built on TensorFlow, the chatbot can handle large volumes of data and interactions, making it suitable for various applications and platforms.
 
 # Key Technologies
